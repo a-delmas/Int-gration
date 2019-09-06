@@ -1,0 +1,63 @@
+body {
+    font-family: "Roboto", sans-serif;
+    margin: auto;
+}
+
+nav {
+    background-color: #2F332E;
+    color: white;
+    font-size: 2em;
+    padding-left: 10em;
+}
+
+.logo {
+    width: 150px;
+    text-align: left;
+}
+
+li, ul {
+    width: 30%;
+    display: inline;
+}
+
+li {
+    font-size: 0.5em;
+}
+
+.Business-title{
+    width: 26%;
+    float: right;
+}
+img {
+    display: inline-block;
+}
+
+.Business {
+    display: inline-block;
+}
+
+button {
+    background-color: #77ABD6;
+    border-radius: 8px;
+    height: 40px;
+}
+
+.text {
+    width: auto;
+    margin: 2em;
+    border: 3px solid black;
+    text-align: center;
+    background-color: lightgrey;
+    padding-top: 25px;
+    vertical-align: center;
+}
+.articles {
+    display: inline-block;
+}
+.heading {
+    display: inline-block;
+    width: 33%;
+}
+.Copyright {
+    font-size: 0.5em;
+}
